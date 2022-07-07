@@ -6,7 +6,7 @@
 
 ## Programs needed 
 * rofi
-* bspwm
+* bspwm (actually using bspwm-rounded-corners)
 * sxhkd
 * polybar
 * networkmanager-dmenu
