@@ -4,6 +4,16 @@
 ![img](https://i.imgur.com/C7rqgNk.png)
 ![gif](https://i.imgur.com/tTi6v9O.gif)
 
+## Programs needed 
+* rofi
+* bspwm
+* sxhkd
+* polybar
+* networkmanager-dmenu
+* emacs
+* doom emacs
+* firefox
+* nitrogen
 
 ## Important
 * Fonts needed: Space Mono NF (i recommend this [pre-release version](https://github.com/ryanoasis/nerd-fonts/releases)), material design icons and feather icons (included in directory usr/)
@@ -13,7 +23,7 @@
  * to modify firefox follow this [instructions](https://github.com/andreasgrafen/cascade#how-to-use-a-userchromecss-theme), specifically the about:config part
  * to complete firefox modification, place the directory chrome in ~/.mozilla/firefox/your_release.default-release/ 
  * my [startpage](https://peyrzival.github.io/startpage/) (a fork of [nwvh startpage](https://github.com/nwvh/startpage)), to put it as a new tab in firefox use this [extension](https://addons.mozilla.org/pt-BR/firefox/addon/new-tab-override/)
- * my text editor is doom emacs, i use the config of [distrotube dot](https://gitlab.com/dwt1/dotfiles)
+ * my text editor is doom emacs, i use the config of [distrotube dot](https://gitlab.com/dwt1/dotfiles) but for minor modifications, i use [lvim](https://www.lunarvim.org/01-installing.html#prerequisites)
  * put the directory bin/ in $HOME/.local/, is necessary for some keybindings to work
  * i use fish as main shell with some aliases, if you want, its at config/fish/ (this configuration file is derived from the [distrotube dotfiles](https://gitlab.com/dwt1/dotfiles) but contains some modifications). install [jfetch](https://github.com/Jimmysit0/jfetch) for informations when you open the terminal
  * to better experience with fish, i recommend you to install [starship](https://starship.rs). my config file of starship is at config/starship.toml 
