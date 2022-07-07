@@ -1,8 +1,9 @@
 # Dotfiles-gruv
 
 ### Screenshots
-![img](https://imgur.com/C7rqgNk)
-![gif](https://imgur.com/tTi6v9O)
+![img](https://i.imgur.com/C7rqgNk.png)
+![gif](https://i.imgur.com/tTi6v9O.gif)
+
 
 ## Important
 * Fonts needed: Space Mono NF (i recommend this [pre-release version](https://github.com/ryanoasis/nerd-fonts/releases)), material design icons and feather icons (included in directory usr/)
