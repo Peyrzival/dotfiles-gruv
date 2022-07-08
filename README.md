@@ -16,6 +16,7 @@
 * nitrogen
 * [feather-icons](https://github.com/feathericons/feather#feather)
 * [i3lock-color](https://github.com/Raymo111/i3lock-color)
+* [cliblur](https://gitlab.com/kerkmann/cliblur)
 
 ## Important
 * Fonts needed: Space Mono NF (i recommend this [pre-release version](https://github.com/ryanoasis/nerd-fonts/releases)), material design icons and feather icons (included in directory usr/)
