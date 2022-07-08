@@ -11,10 +11,10 @@
 * polybar
 * networkmanager-dmenu
 * emacs
-* doom emacs
+* [doom emacs](https://github.com/doomemacs/doomemacs)
 * firefox
 * nitrogen
-* [feather-icons](https://github.com/feathericons/feather#feather)
+* [feather-icons](https://github.com/feathericons/feather#feather) (included in directory usr/share/fonts)
 * [i3lock-color](https://github.com/Raymo111/i3lock-color)
 * [cliblur](https://gitlab.com/kerkmann/cliblur)
 
