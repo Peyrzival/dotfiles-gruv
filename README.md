@@ -22,6 +22,7 @@
 * todo
 * jetbrains mono nerd font
 * maim
+* ksuperkey
 
 ## Important
 * Fonts needed: Space Mono NF (i recommend this [pre-release version](https://github.com/ryanoasis/nerd-fonts/releases)), material design icons and feather icons (included in directory usr/)
