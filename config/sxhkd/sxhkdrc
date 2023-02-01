@@ -71,20 +71,9 @@ ctrl + Print
 ctrl + alt + Print
 	sh $HOME/.local/bin/takeshot --area
 
-# Brighness control
-XF86MonBrightness{Up,Down}
-	sh $HOME/.local/bin/brightness{ up, down}
-	
-# Volume control
-XF86Audio{RaiseVolume,LowerVolume}
-	sh $HOME/.local/bin/volume{ up, down}
-
-XF86AudioMute
-	sh $HOME/.local/bin/volume mute
-	
 # Music control
 XF86Audio{Next,Prev,Play,Stop}
-	mpc {next,prev,toggle,stop}
+	playerctl {next,previous,play-pause}
 
 # Window Manager
 
@@ -175,10 +164,3 @@ super + ctrl + space
 # Cancel the preselection for the focused desktop
 super + ctrl + shift + space
 	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
-
-# prev, play and next
-XF86AudioPrev
-    playerctl previous
-
-XF86AudioPlay
-    playerctl play-pause
