@@ -20,6 +20,7 @@
 * [jfetch](https://github.com/Jimmysit0/jfetch) (informations when you open the terminal)
 * scrot
 * todo
+* jetbrains mono nerd font
 
 ## Important
 * Fonts needed: Space Mono NF (i recommend this [pre-release version](https://github.com/ryanoasis/nerd-fonts/releases)), material design icons and feather icons (included in directory usr/)
