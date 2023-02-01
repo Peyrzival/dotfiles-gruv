@@ -18,7 +18,7 @@
 * [i3lock-color](https://github.com/Raymo111/i3lock-color)
 * [cliblur](https://gitlab.com/kerkmann/cliblur)
 * [jfetch](https://github.com/Jimmysit0/jfetch) (informations when you open the terminal)
-* scrot
+* scrot (for i3lock)
 * todo
 * jetbrains mono nerd font
 * maim
